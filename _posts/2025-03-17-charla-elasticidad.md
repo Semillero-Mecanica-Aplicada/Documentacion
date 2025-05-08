@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Charla sobre Elasticidad
-date: 2025-03-17
+date: 2025-03-24
 ---
 
-**Fecha:** 17 de marzo de 2025
+**Fecha:** 24 de marzo de 2025
 
 El concepto de elasticidad se basa en la relación entre esfuerzos y las deformaciones que sufre un elemento sólido. Para entender mejor la relación entre estos dos conceptos se debe empezar por comprender cada uno por aparte.
 Esfuerzo se refiere a la fuerza sobre unidad de área aplicada sobre un objeto, que suele tener unidades de Newtons sobre metro cuadrado, o “pascales” (representado usualmente con la letra griega sigma “σ”):
