@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
 <body>
   <header>
     <h1>Semillero de Investigación en Mecánica Aplicada</h1>
     <nav>
-      <a href="/">Inicio</a> |
-      <a href="/blog.html">Actas del Proyecto</a>
+      <a href="{{ '/' | relative_url }}">Inicio</a> |
+      <a href="{{ '/blog.html' | relative_url }}">Actas del Proyecto</a>
     </nav>
   </header>
   <main>
