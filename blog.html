@@ -8,7 +8,7 @@ title: Actas del Proyecto 2025
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - <em>{{ post.date | date: "%d/%m/%Y" }}</em>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
