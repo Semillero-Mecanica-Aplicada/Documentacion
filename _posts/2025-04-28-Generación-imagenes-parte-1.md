@@ -11,7 +11,7 @@ Para el desarrollo del proyecto se definió que uno de los problemas clave iba a
 - Se empezó la reunión con un taller sobre cómo crear ramas, hacer pulls y merge en GitHub con un archivo jupyter de ejemplo.
 - Se definió el objetivo al cual se debe llegar, como el siguiente ejemplo:
     <p align="center">
-      <img src="/Documentacion/assets/img/Imagen0.png" alt="Código QR" width="200">
+      <img src="/Documentacion/assets/img/Imagen0.png" alt="Dato de ejemplo" width="200">
     </p>
 - Se empezaron a proponer soluciones para el problema. 
 
