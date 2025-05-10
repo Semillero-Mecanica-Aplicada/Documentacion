@@ -3,10 +3,10 @@ layout: post
 title: Charla sobre FEM
 date: 2025-04-07
 ---
-# Reunión Semillero – Charla FEM (Finite Element Method)
-En la reunión de semillero se llevó a cabo una breve charla o explicación protagonizada por Estefanía y Alejandra Botero donde se explicó cuales eran los principios del método de elementos finitos (FEM), aplicaciones y programas que se podrían emplear para aprender con más profundidad.
+## Reunión Semillero – Charla FEM (Finite Element Method)
+En la reunión de semillero se llevó a cabo una breve charla o explicación protagonizada por Estefanía Moreno, Alejandra Botero y Daniel Ospina donde se explicó cuales eran los principios del método de elementos finitos (FEM), aplicaciones y programas que se podrían emplear para aprender con más profundidad.
 
-# FEM (Finite Element Method)
+## FEM (Finite Element Method)
 En el mundo matemático de la predicción de comportamiento de objetos o semiespacios ante una situación específica (Imposición de carga, desplazamiento, etc.) existen dos métodos o maneras de hacerlo. Por un lado, están las soluciones analíticas, que son básicamente una ecuación en funciones de una o más variables que es exacta, y te da la respuesta que tendrá el sistema de forma directa, siendo posible conocer el valor exacto de respuesta del elemento. Y por el otro lado se tiene la solución numérica, que también responde a la misma necesidad, pero usando interpolación, en este caso no se cuenta con una ecuación para la obtención del valor exacto de respuesta, sino que se busca calcularla a partir de condiciones de frontera e información con nodos vecino de forma aproximada.
 
 De esta manera, FEM es un método que permite dar respuestas aproximadas numéricamente mediante interpolaciones y datos ya medidos, además de otras condiciones técnicas que se establecen. La principal idea de su funcionamiento consiste en el uso de “elementos finitos”, que son pequeños diferenciales de área o fragmentos del objeto a analizar, y a partir de las condiciones insertadas y el conocimiento de información de las celdas o nodos vecinos, se puede conocer cual sería la aproximación de valor para el elemento en concreto.
