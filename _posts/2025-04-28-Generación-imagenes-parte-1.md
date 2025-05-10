@@ -1,0 +1,20 @@
+---
+layout: post
+title: Generación imagenes parte 1
+date: 2025-04-28
+---
+**Grupo Lunes**
+## Problema
+Para el desarrollo del proyecto se definió que uno de los problemas clave iba a ser los datos a utilizar dado que no se encontró una base de datos real, por este motivo el primer problema a resolver será crear un algoritmo que permita la generación de los datos a procesar (imágenes de 64x64 binarias)
+
+## Desarrollo de la reunión
+- Se empezó la reunión con un taller sobre cómo crear ramas, hacer pulls y merge en GitHub con un archivo jupyter de ejemplo.
+- Se definió el objetivo al cual se debe llegar, como el siguiente ejemplo:
+    <img src="/Documentacion/assets/img/Imagen.png" alt="Dato de ejemplo" width="600">
+- Se empezaron a proponer soluciones para el problema. 
+
+## Compromisos Futuros
+- Crear un algoritmo que permita generar imágenes binarias aleatorias.
+- Verificar que el algoritmo genere imágenes únicas y no repetidas.
+- Preparar una explicación del algoritmo y todos sus componentes de tal manera que todos los miembros del grupo entiendan cómo funciona la propuesta.
+
