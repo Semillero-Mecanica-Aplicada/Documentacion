@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generación imagenes parte 1
+title: Generación de imagenes parte 1
 date: 2025-04-28
 ---
 **Grupo Lunes**
@@ -10,7 +10,9 @@ Para el desarrollo del proyecto se definió que uno de los problemas clave iba a
 ## Desarrollo de la reunión
 - Se empezó la reunión con un taller sobre cómo crear ramas, hacer pulls y merge en GitHub con un archivo jupyter de ejemplo.
 - Se definió el objetivo al cual se debe llegar, como el siguiente ejemplo:
-    <img src="/Documentacion/assets/img/Imagen0.png" alt="Dato de ejemplo" width="600">
+    <p align="center">
+      <img src="/Documentacion/assets/img/Imagen0.png" alt="Código QR" width="200">
+    </p>
 - Se empezaron a proponer soluciones para el problema. 
 
 ## Compromisos Futuros
