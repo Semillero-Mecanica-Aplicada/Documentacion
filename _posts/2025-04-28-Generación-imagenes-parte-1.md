@@ -10,7 +10,7 @@ Para el desarrollo del proyecto se definió que uno de los problemas clave iba a
 ## Desarrollo de la reunión
 - Se empezó la reunión con un taller sobre cómo crear ramas, hacer pulls y merge en GitHub con un archivo jupyter de ejemplo.
 - Se definió el objetivo al cual se debe llegar, como el siguiente ejemplo:
-    <img src="/Documentacion/assets/img/Imagen.png" alt="Dato de ejemplo" width="600">
+    <img src="/Documentacion/assets/img/Imagen0.png" alt="Dato de ejemplo" width="600">
 - Se empezaron a proponer soluciones para el problema. 
 
 ## Compromisos Futuros
