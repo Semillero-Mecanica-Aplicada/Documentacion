@@ -16,7 +16,7 @@ Esta tarea se piensa realizar a partir de herramientas de generación de geometr
 - Una vez completada la primera tarea, se debe desarrollar una rutina que permita asignar a cada elemento de la malla uno de dos materiales posibles, siguiendo el orden de asignación establecido por la imagen de entrada.
 
 <p align="center">
-    <img src="integracionFEMdiagrama.png" alt="Diagrama de creación de geometría y asignación de material en FEM" width="400">
+    <img src="/Documentacion/assets/img/integracionFEMdiagrama.png" alt="Diagrama de creación de geometría y asignación de material en FEM" width="400">
 </p>
 
 ## Compromisos Futuros
