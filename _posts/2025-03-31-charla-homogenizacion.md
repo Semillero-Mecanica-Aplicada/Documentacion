@@ -4,7 +4,7 @@ title: Charla sobre Homogenización
 date: 2025-03-31
 ---
 
-**Fecha:** 31 de marzo de 2025
+**Fecha: 31 de marzo de 2025**
 
 La teoría de homogeneización es una herramienta fundamental para analizar materiales compuestos, como aquellos formados por fibras inmersas en una matriz. Esta teoría se basa en el estudio del material en dos escalas distintas: una microscópica y otra macroscópica. En la escala microscópica se analiza una pequeña porción del material conocida como volumen representativo elemental (RVE). Este volumen debe ser lo bastante pequeño para que, a nivel macro, pueda considerarse como un punto sin variaciones internas, pero también lo suficientemente grande como para incluir una cantidad adecuada de elementos microscópicos, como fibras o poros, de modo que su comportamiento represente fielmente las características del material.
 
