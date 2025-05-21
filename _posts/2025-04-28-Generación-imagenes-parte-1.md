@@ -4,6 +4,7 @@ title: Generación de imagenes parte 1
 date: 2025-04-28
 ---
 **Grupo Lunes**
+**Fecha: 28 de abril de 2025**
 ## Problema
 Para el desarrollo del proyecto se definió que uno de los problemas clave iba a ser los datos a utilizar dado que no se encontró una base de datos real, por este motivo el primer problema a resolver será crear un algoritmo que permita la generación de los datos a procesar (imágenes de 64x64 binarias)
 
