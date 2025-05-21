@@ -4,6 +4,7 @@ title: Integración FEM parte 1 - Imágenes como datos de entrada
 date: 2025-04-30
 ---
 **Grupo Miércoles**
+
 **Fecha: 30 de abril de 2025**
 ## Problema
 A partir de los datos de entrada que se van a generar, los cuales se decidieron que serán imágenes binarias de 64x64, se plantea realizar la lectura de datos y su asignación como material del elemento para cada elemento generado en el modelo de elementos finitos.
