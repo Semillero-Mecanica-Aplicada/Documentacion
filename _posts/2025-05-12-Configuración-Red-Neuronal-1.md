@@ -15,7 +15,7 @@ El principal reto en esta etapa del proyecto fue definir y establecer los cambio
 [^1]: [https://www.sciencedirect.com/science/article/abs/pii/S0927025620303414](https://www.sciencedirect.com/science/article/abs/pii/S0927025620303414)
 
 <p align="center">
-    <img src="/assets/img/Red_referencia.png" alt="Red neuronal de referencia" width="800">
+    <img src="{{ site.baseurl }}/assets/img/Red_referencia.png" alt="Red neuronal de referencia" width="800">
 </p>
 - A partir de este análisis, se definieron los cambios y variaciones que se implementarán en las distintas pruebas a realizar con PyTorch. Estas modificaciones incluyen ajustes en las capas, funciones de activación, parámetros de entrenamiento y otras configuraciones relevantes.
 - Esta planificación busca optimizar el rendimiento del modelo y evaluar cómo cada cambio impacta en la capacidad de la red para aprender y generalizar sobre las imágenes binarias generadas.
