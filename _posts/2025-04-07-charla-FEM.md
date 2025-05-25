@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Charla sobre FEM
-date: 2025-04-07
+tags: Charla
 ---
-**Fecha: 7 de abril de 2025**
+
 ## Reunión Semillero – Charla FEM (Finite Element Method)
 En la reunión de semillero se llevó a cabo una breve charla o explicación protagonizada por Estefanía Moreno, Alejandra Botero y Daniel Ospina donde se explicó cuales eran los principios del método de elementos finitos (FEM), aplicaciones y programas que se podrían emplear para aprender con más profundidad.
 

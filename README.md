@@ -1,98 +1,63 @@
-# Semillero de Investigación en Mecánica Aplicada – Proyecto 2025
+# Semillero de Investigación en Mecánica Aplicada
 
-Bienvenidos al repositorio oficial del Semillero de Investigación en Mecánica Aplicada. Este espacio está destinado a documentar semana a semana el desarrollo del proyecto 2025, incluyendo reuniones, avances técnicos, resultados y recursos clave.
 
----
+Repositorio oficial del <strong>Semillero de Investigación en Mecánica Aplicada</strong> — Proyecto 2025.
 
-## 📁 Estructura del repositorio
+## 🚀 ¿Cómo subir un post?
 
-```
-/
-├── index.md                 # Página principal del sitio
-├── blog.html                # Página tipo blog que lista las actas
-├── _posts/                  # Carpeta donde se colocan las actas semanales en formato Markdown
-│   ├── 2025-03-17-charla-elasticidad.md
-├── _layouts/
-│   └── default.html         # Plantilla base del sitio
-├── _config.yml              # Configuración general del sitio Jekyll
-└── README.md                # Este archivo
-```
+1. **Ubica la carpeta de posts:**
+   - Todos los posts están en la carpeta [`_posts/`](./_posts/).
 
----
+2. **Crea un archivo Markdown:**
+   - El nombre debe tener el formato: `AAAA-MM-DD-titulo-del-post.md`
+   - Ejemplo: `2025-05-25-mi-nuevo-post.md`
 
-## 🔧 ¿Cómo colaborar?
+3. **Agrega el front matter y contenido:**
+   ```markdown
+   ---
+   title: Título del post
+   tags: [Etiqueta1, Etiqueta2]
+   ---
+   
+   Aquí va el contenido del post. Puedes usar **negritas**, _cursivas_, listas, imágenes, ecuaciones, etc.
+   
+   - Punto 1
+   - Punto 2
+   
+   <!--more-->
+   
+   Texto que aparecerá después del resumen.
+   ```
 
-### 1. Clona el repositorio
+4. **Guarda y sube los cambios:**
+   - Guarda el archivo en [`_posts/`](./_posts/).
+   - Realiza commit y push a tu rama en el repositorio.
 
-```bash
-git clone https://github.com/Semillero-Mecanica-Aplicada/Documentacion.git
-cd Documentacion
-```
+5. **Verifica el resultado:**
+   - Inicia el servidor local:
+     ```bash
+     bundle exec jekyll serve
+     ```
+   - Abre [http://localhost:4000](http://localhost:4000) y revisa tu post.
 
-### 2. Agrega una nueva acta semanal
+## 📁 Estructura principal
 
-1. Crea un nuevo archivo en la carpeta `_posts/` siguiendo este formato de nombre:
+- [`_posts/`](./_posts/): Posts del blog
+- [`_data/`](./_data/): Archivos de configuración y datos
+- [`_includes/`](./_includes/): Fragmentos HTML reutilizables
+- [`_layouts/`](./_layouts/): Plantillas de página
+- [`assets/`](./assets/): Imágenes, CSS y otros recursos
+- [`index.html`](./index.html): Página principal
 
-```
-YYYY-MM-DD-nombre-del-acto.md
-```
+## 🛠️ Requisitos para desarrollo
 
-2. Dentro del archivo, usa esta plantilla:
+- [Ruby](https://www.ruby-lang.org/)
+- [Bundler](https://bundler.io/)
+- [Jekyll](https://jekyllrb.com/)
 
-```markdown
----
-layout: post
-title: Semana X - Título de la reunión
-date: YYYY-MM-DD
----
+## 🤝 Contribuciones
 
-**Fecha:** DD de mes de 2025
-
-**Temas tratados:**
-
-- Punto 1 tratado en la reunión
-- Punto 2 tratado en la reunión
-- Punto 3 tratado en la reunión
-
-**Responsables:** Nombre 1, Nombre 2
-
-**Próximos pasos:** Actividades asignadas para la próxima semana.
-```
-
-> ✅ Puedes escribir todo en formato Markdown. Jekyll se encargará de convertirlo en una página web automáticamente.
-
-### 3. Guarda y sube los cambios
-
-```bash
-git add .
-git commit -m "Agregada acta semana X"
-git push origin main
-```
+¡Las contribuciones son bienvenidas! Abre un issue o pull request para sugerencias o mejoras.
 
 ---
 
-## 🌐 ¿Cómo ver la página en línea?
-
-GitHub Pages está activado para este repositorio.
-
-Puedes visitar la página principal en:
-
-```
-https://semillero-mecanica-aplicada.github.io/Documentacion/
-```
-
-Y la documentación directamente en:
-
-```
-https://semillero-mecanica-aplicada.github.io/Documentacion/blog.html
-```
-
----
-
-## 📫 Contacto
-
-Para dudas, errores o mejoras, contacta al coordinador del semillero o abre un Issue en este repositorio.
-
----
-
-© 2025 – Semillero de Investigación en Mecánica Aplicada

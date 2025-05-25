@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Generación de imagenes parte 2
-date: 2025-05-05
+tags: Acta
 ---
 **Grupo Lunes**
 
-**Fecha:5 de mayo de 2025**
 ## Problema
 En esta etapa del proyecto, el principal problema a resolver fue el desarrollo de un algoritmo capaz de generar imágenes binarias aleatorias. Este paso era fundamental para suplir la falta de una base de datos real, permitiendo así contar con un conjunto de datos artificial, pero confiable, para las siguientes fases del proyecto.
 ## Desarrollo de la reunión
