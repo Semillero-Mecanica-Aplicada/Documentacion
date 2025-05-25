@@ -6,7 +6,7 @@ tags: Charla
 El concepto de elasticidad se basa en la relación entre esfuerzos y las deformaciones que sufre un elemento sólido. Para entender mejor la relación entre estos dos conceptos se debe empezar por comprender cada uno por aparte.
 Esfuerzo se refiere a la fuerza sobre unidad de área aplicada sobre un objeto, que suele tener unidades de Newtons sobre metro cuadrado, o “pascales” (representado usualmente con la letra griega sigma “σ”):
 
-<img src="/assets/img/esfuerzo.png" alt="Grafica Esfuerzo" width="600">
+<img src="{{ site.baseurl }}/assets/img/esfuerzo.png" alt="Grafica Esfuerzo" width="600">
 
 
 Existen 5 tipos de esfuerzos que varían según la manera en que se aplique la fuerza:

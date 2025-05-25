@@ -51,7 +51,7 @@ header:
 #      tr      : &TR       Hakkında
 #      es      : &ES       Acerca de
       # @end locale config
-    url: /about.html
+#    url: /about.html
 
   - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
+    url:        https://github.com/Semillero-Mecanica-Aplicada
