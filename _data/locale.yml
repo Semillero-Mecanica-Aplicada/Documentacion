@@ -1,6 +1,7 @@
 # @start locale config
 ## => English
 ########################
+
 en: &EN
   SUBSCRIBE               : "Subscribe"
   READMORE                : "Read more"
@@ -19,7 +20,7 @@ en: &EN
   FOLLOW_US               : "Follow us on [NAME]."
   EMAIL_ME                : "Send me an Email."
   EMAIL_US                : "Send us an Email."
-  COPYRIGHT_DATES         : "2021"
+  COPYRIGHT_DATES         : "2025"
 
 en-GB:
   <<: *EN
@@ -165,5 +166,25 @@ tr: &TR
   EMAIL_ME                : "Bana email ile ulaşın."
   EMAIL_US                : "Bize email ile ulaşın."
   COPYRIGHT_DATES         : "2021"
+es:
+  SUBSCRIBE               : "Suscribirse"
+  READMORE                : "Leer más"
+  SEARCH                  : "Buscar"
+  CANCEL                  : "Cancelar"
+  VIEWS                   : "vistas"
+  LAST_UPDATED            : "Última actualización"
+  PREVIOUS                : "ANTERIOR"
+  NEXT                    : "SIGUIENTE"
+  ARTICLE_DATE_FORMAT     : "%d %b, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%d %b"
+  STATISTICS              : "[POST_COUNT] artículos, [PAGE_COUNT] páginas."
+  LICENSE_ANNOUNCE        : "Este trabajo está bajo una licencia [LICENSE]."
+  POST_ON_GITHUB          : "Editar en Github"
+  FOLLOW_ME               : "Sígueme en [NAME]."
+  FOLLOW_US               : "Síguenos en [NAME]."
+  EMAIL_ME                : "Envíame un correo."
+  EMAIL_US                : "Envíanos un correo."
+  COPYRIGHT_DATES         : "2025"
+  TAGS_SHOW_ALL           : "Mostrar todo"
 
 # @end locale config
