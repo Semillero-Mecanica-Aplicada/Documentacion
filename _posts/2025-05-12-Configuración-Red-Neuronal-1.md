@@ -10,9 +10,10 @@ El principal reto en esta etapa del proyecto fue definir y establecer los cambio
 
 ## Desarrollo de la reunión
 
-- En primera instancia, se realizó un análisis detallado de la arquitectura de una red neuronal diseñada para procesar imágenes en 3D con un tamaño fijo de 101 píxeles, adecuado para la tarea que queremos realizar, sacada de Three-dimensional convolutional neural network (3D-CNN) for  heterogeneous material homogenization[^1].
+- En primera instancia, se realizó un análisis detallado de la arquitectura de una red neuronal diseñada para procesar imágenes en 3D con un tamaño fijo de 101 píxeles, adecuado para la tarea que queremos realizar[^1].
 
-[^1]: [https://www.sciencedirect.com/science/article/abs/pii/S0927025620303414](https://www.sciencedirect.com/science/article/abs/pii/S0927025620303414)
+[^1]: Rao, C., & Liu, Y. (2020). Three-dimensional convolutional neural network (3D-CNN) for heterogeneous material homogenization. Computational Materials Science, 184, 109850. [https://doi.org/10.1016/j.commatsci.2020.109850](https://doi.org/10.1016/j.commatsci.2020.109850)
+
 
 <p align="center">
     <img src="{{ site.baseurl }}/assets/img/Red_referencia.png" alt="Red neuronal de referencia" width="800">
