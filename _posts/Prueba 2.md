@@ -5,7 +5,7 @@ tags: Acta
 **Grupo Lunes**
 
 ## Problema
-En esta etapa del proyecto, el principal problema a resolver fue el desarrollo de un algoritmo capaz de generar imágenes binarias aleatorias. Este paso era fundamental para suplir la falta de una base de datos real, permitiendo así contar con un conjunto de datos artificial, pero confiable, para las siguientes fases del proyecto.
+En esta etapa del proyecto, el principal problema a resolver fue el desarrollo de un algoritmo capaz de generar imágenes binarias aleatorias. Este paso era fundamental para suplir la falta de una base de datos real, permitiendo así contar con un conjunto de datos artificial, pero confiable, para las siguientes fases del proyecto
 ## Desarrollo de la reunión
 - Durante la reunión se revisó el funcionamiento del algoritmo desarrollado en Python para la generación de imágenes binarias. Se confirmó que este produce imágenes aleatorias válidas, que se almacenan correctamente y que es posible repetir el proceso gracias al uso de una semilla y al guardado del estado interno del generador aleatorio.
 - Una vez validado el funcionamiento del algoritmo, se implementó un mecanismo de verificación para asegurar que no hubiera imágenes repetidas. Para ello, se utilizó una función hash aplicada sobre cada imagen, lo que permitió comprobar que todas eran únicas.
