@@ -1,12 +1,16 @@
 ---
-title: Sesión 05 – Proyecto 2026
+title: Sesión 06 – Proyecto 2026
 tags: Acta Proyecto2026
 --- 
 
 **Semillero:** Ciencia e ingeniería Computacional – Materiales Porosos  
-**Fecha:** 09/03/2026  
+
+**Fecha:** 09/04/2026  
+
 **Lugar:** 14-404  
+
 **Modalidad:** Presencial  
+
 **Duración:** 60 minutos  
 
 ## 1. Objetivo de la sesión
